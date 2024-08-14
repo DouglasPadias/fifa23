@@ -1,3 +1,6 @@
+# Importante lembrar de colocar as bibliotecas de terceiros 
+# dentro do arquivo requirements.txt para não aver problemas futuros
+
 import streamlit as st
 import pandas as pd
 from datetime import datetime
