@@ -26,7 +26,7 @@ if 'data' not in st.session_state:
 st.markdown('# FIFA23 OFFICIAL DATASET! ⚽️')
 
 # Inserindo audio
-st.audio("fala.mp3", format="audio/mpeg", loop=True)
+st.audio("fala.mp3")
 
 # Criando um link no sidebar
 st.sidebar.markdown("Desenvolvido por [Douglas Padias](https://www.instagram.com/douglaspadias/)")
