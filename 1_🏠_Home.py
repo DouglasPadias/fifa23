@@ -45,4 +45,4 @@ habilidades de análise de dados e **machine learning**, além de construir um p
 '''
 )
 # Inserindo audio
-st.sidebar.audio("audio/fala.mp3")
+st.sidebar.audio("fala.mp3")
